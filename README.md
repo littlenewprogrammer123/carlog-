@@ -1,4 +1,5 @@
 # CarLog Landing Page
+<!-- GitHub Pages deployment -->
 
 Your vehicle's memory - Never miss a service, insurance renewal, or PUC expiry again.
 
